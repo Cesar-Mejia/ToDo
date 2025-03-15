@@ -1,7 +1,9 @@
+import Button from "@cloudscape-design/components/button";
+
 export default function App() {
   return (
     <>
-      <h1>App</h1>
+      <Button>Click me</Button>
     </>
   );
 }
